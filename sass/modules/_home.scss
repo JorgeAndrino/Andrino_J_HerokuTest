@@ -7,4 +7,10 @@ body {
 button {
     color: $button-color;
     margin: 10px;
+    align-content: center;
+}
+
+.header {
+    background-image: url("background.png");
+    background-color: red;
 }
