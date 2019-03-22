@@ -14,10 +14,10 @@ const data = {
 
     specifications: {
         name: "Specifications",
-        list1: "Weight Capacity: 330 lbs / 150 kgs",
-        list2: "Upholstery Type: PU Leather",
-        list3: "Product Weight: 60 lbs / 25 kgs",
-        list4: "And Its Only...",
+        info: "Weight Capacity: 330 lbs / 150 kgs",
+        info2: "Upholstery Type: PU Leather",
+        info3: "Product Weight: 60 lbs / 25 kgs",
+        info4: "And Its Only...",
         pic: "399.jpg",
     },
 
